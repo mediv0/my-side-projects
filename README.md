@@ -37,6 +37,7 @@
 
 ## 🐱‍💻 Todo
 - [ ] weather app
+- [ ] texteditor
 - [ ] vue3 YT Wrapper
 - [ ] clubhouse clone
 - [ ] video editor
