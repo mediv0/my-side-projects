@@ -36,6 +36,7 @@
     - **[Vue my toasts](https://github.com/vuegems/vue-my-toasts)**
 
 ## 🐱‍💻 Todo
+- [ ] windows 11 vue3
 - [ ] weather app
 - [ ] texteditor
 - [ ] vue3 YT Wrapper
