@@ -22,6 +22,7 @@
     - **[Link shorter](https://github.com/mediv0/link-shorter)** *Link shorter website using mongo-express-nuxt*
     - **[ForumX](https://github.com/mediv0/forumX)** *Simple stackoverflow clone nuxt-mongo-express-googleAuth*
     - **[Foxhole artillery](https://github.com/XeniacDev/FoxholeArtillery-Windows)** *A simplistic artillery calculator for game foxhole*
+    - **[Telegram channel scraper](https://github.com/mediv0/telegram-channel-scraper-server)** *get group/channel messages*
  
 - ### Boilerplates - Research
     - **[Manticore](https://github.com/mediv0/Manticore)** -- *[Live demo](https://codesandbox.io/s/gallant-platform-5g873?file=/index.html)* -- *simple animation library Gsap.from clone*
