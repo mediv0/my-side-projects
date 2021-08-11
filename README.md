@@ -24,6 +24,7 @@
     - **[Foxhole artillery](https://github.com/XeniacDev/FoxholeArtillery-Windows)** *A simplistic artillery calculator for game foxhole*
     - **[Telegram channel scraper](https://github.com/mediv0/telegram-channel-scraper-server)** *get group/channel messages*
     - **[youtube-to-aparat-middleware](https://github.com/mediv0/youtube-to-aparat-middleware)** *forward youtube streams to Aparat's RTMP server (or any RTMP server)*
+    - **[youtube-thumbnail-downloader](https://github.com/mediv0/telegram-thumbnail-bot/tree/master)** *a telegram bot for downloading youtube video thumbnail*
  
 - ### Boilerplates - Research
     - **[Manticore](https://github.com/mediv0/Manticore)** -- *[Live demo](https://codesandbox.io/s/gallant-platform-5g873?file=/index.html)* -- *simple animation library Gsap.from clone*
