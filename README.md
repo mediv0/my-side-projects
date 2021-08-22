@@ -29,6 +29,7 @@
   
  
 - ### Boilerplates - Research
+    - **[tehst - jest clone](https://github.com/mediv0/jest-clone)** *very simple testing framework inspired by jest*
     - **[Manticore](https://github.com/mediv0/Manticore)** -- *[Live demo](https://codesandbox.io/s/gallant-platform-5g873?file=/index.html)* -- *simple animation library Gsap.from clone*
     - **[Vod and live streaming service](https://github.com/mediv0/vod-live-stream-ffmpeg-example)** *Live/Vod streaming service using node js and hls*
     - **[Nuxt Darkmod example](https://github.com/mediv0/nuxt-color-module-example)** -- *[Live demo](https://mediv0.github.io/nuxt-color-module-example/)* -- *nuxt color module with css variables*
