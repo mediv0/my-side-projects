@@ -17,7 +17,8 @@
 - ### Side projects
     - **[Xeniac team website](https://xeniac.ir/)**
     - **[Personal Portfolio](https://mahdi.wtf/)**
-    - **[Chill Club](https://xeniac.ir/)** -- *[Live demo](https://chill-club.vercel.app/)* -- *listen to music and chill*
+    - **[Chill Club](https://github.com/mediv0/chill-club)** -- *[Live demo](https://chill-club.vercel.app/)* -- *listen to music and chill*
+    - **[Xtrader](https://mediv0.github.io/xtrader/)** -- *[Live demo](https://mediv0.github.io/xtrader/)(landing ui)* -- *Fastest way100% FREE to trade steam items*
     - **[Simple chatroom](https://github.com/mediv0/simple-chatroom)** *Socket io chatroom*
     - **[Link shorter](https://github.com/mediv0/link-shorter)** *Link shorter website using mongo-express-nuxt*
     - **[ForumX](https://github.com/mediv0/forumX)** *Simple stackoverflow clone nuxt-mongo-express-googleAuth*
@@ -26,6 +27,8 @@
     - **[youtube-to-aparat-middleware](https://github.com/mediv0/youtube-to-aparat-middleware)** *forward youtube streams to Aparat's RTMP server (or any RTMP server)*
     - **[youtube-thumbnail-downloader](https://github.com/mediv0/telegram-thumbnail-bot/tree/master)** *a telegram bot for downloading youtube video thumbnail*
     - **[youtube-video-downloader](https://github.com/mediv0/youtube-downloader-telegram-bot/tree/master)** *a telegram bot for downloading youtube video*
+
+https://mediv0.github.io/xtrader/
   
  
 - ### Boilerplates - Research
