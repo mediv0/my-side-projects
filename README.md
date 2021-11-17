@@ -13,11 +13,11 @@
     - **[Vue-input-validator](https://github.com/mediv0/vue-input-validator)** *Highly extensible & customizable input validator for Vue 2*
     - **[Vue-persian-tools](https://github.com/persian-tools/vue-persian-tools)** *Persian tools wrapper for vue.js*
     - **[Zal](https://github.com/mediv0/zal)** *Small & minimal RTL & component first CSS library*
+    - **[Uribbble](https://github.com/Unwrapstudio/Uribbble)** *Drop comments just with a click on Dribbble*
 
 - ### Side projects
     - **[Xeniac team website](https://xeniac.ir/)**
     - **[Personal Portfolio](https://mahdi.wtf/)**
-    - **[Uribbble](https://github.com/Unwrapstudio/Uribbble)** *Drop comments just with a click on Dribbble*
     - **[Chill Club](https://github.com/mediv0/chill-club)** -- *[Live demo](https://chill-club.vercel.app/)* -- *listen to music and chill*
     - **[Xtrader](https://mediv0.github.io/xtrader/)** -- *[Live demo](https://mediv0.github.io/xtrader/)(landing ui)* -- *Fastest way100% FREE to trade steam items*
     - **[Simple chatroom](https://github.com/mediv0/simple-chatroom)** *Socket io chatroom*
