@@ -28,8 +28,6 @@
     - **[youtube-to-aparat-middleware](https://github.com/mediv0/youtube-to-aparat-middleware)** *forward youtube streams to Aparat's RTMP server (or any RTMP server)*
     - **[youtube-thumbnail-downloader](https://github.com/mediv0/telegram-thumbnail-bot/tree/master)** *a telegram bot for downloading youtube video thumbnail*
     - **[youtube-video-downloader](https://github.com/mediv0/youtube-downloader-telegram-bot/tree/master)** *a telegram bot for downloading youtube video*
-
-https://mediv0.github.io/xtrader/
   
  
 - ### Boilerplates - Research
