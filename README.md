@@ -13,7 +13,7 @@
     - **[Vue-input-validator](https://github.com/mediv0/vue-input-validator)** *Highly extensible & customizable input validator for Vue 2*
     - **[Vue-persian-tools](https://github.com/persian-tools/vue-persian-tools)** *Persian tools wrapper for vue.js*
     - **[Zal](https://github.com/mediv0/zal)** *Small & minimal RTL & component first CSS library*
-    - **[Uribbble](https://github.com/Unwrapstudio/Uribbble)** *Drop comments just with a click on Dribbble*
+    - **[Uribbble](https://github.com/mediv0/Uribbble)** *Drop comments just with a click on Dribbble*
 
 - ### Side projects
     - **[Xeniac team website](https://xeniac.ir/)**
