@@ -24,7 +24,7 @@
     - **[Link shorter](https://github.com/mediv0/link-shorter)** *Link shorter website using mongo-express-nuxt*
     - **[ForumX](https://github.com/mediv0/forumX)** *Simple stackoverflow clone nuxt-mongo-express-googleAuth*
     - **[Foxhole artillery](https://github.com/XeniacDev/FoxholeArtillery-Windows)** *A simplistic artillery calculator for game foxhole*
-    - **[Telegram channel scraper](https://github.com/mediv0/telegram-channel-scraper-server)** *get group/channel messages*
+    - **[Telegram channel scraper]()** ----- **private** ----- *get group/channel messages in telegram*
     - **[youtube-to-aparat-middleware](https://github.com/mediv0/youtube-to-aparat-middleware)** *forward youtube streams to Aparat's RTMP server (or any RTMP server)*
     - **[youtube-thumbnail-downloader](https://github.com/mediv0/telegram-thumbnail-bot/tree/master)** *a telegram bot for downloading youtube video thumbnail*
     - **[youtube-video-downloader](https://github.com/mediv0/youtube-downloader-telegram-bot/tree/master)** *a telegram bot for downloading youtube video*
