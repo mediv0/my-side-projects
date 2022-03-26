@@ -15,6 +15,10 @@
     - **[Zal](https://github.com/mediv0/zal)** *Small & minimal RTL & component first CSS library*
     - **[Uribbble](https://github.com/mediv0/Uribbble)** *Drop comments just with a click on Dribbble*
 
+- ### Blog Posts
+    - [Create Custom data reactivity system](https://mediv.vercel.app/blog/data-reactivity-in-javascript)
+    - [2d raycasting in javascript](https://mediv.vercel.app/blog/raycasting-in-javascript)
+
 - ### Side projects
     - **[Xeniac team website](https://xeniac.ir/)**
     - **[Personal Portfolio](https://mahdi.wtf/)**
@@ -42,15 +46,3 @@
     - **[Persian tools](https://github.com/persian-tools/persian-tools)**
     - **[Nuxt.org](https://github.com/nuxt/nuxtjs.org)** *translate to fa*
     - **[Vue my toasts](https://github.com/vuegems/vue-my-toasts)**
-
-## 🐱‍💻 Todo
-- [ ] windows 11 vue3
-- [ ] weather app
-- [ ] texteditor
-- [ ] vue3 YT Wrapper
-- [ ] clubhouse clone
-- [ ] video editor
-- [ ] nuxt 3 
-- [ ] Socket POLL creator
-- [ ] survey gather
-- [ ] Image hub
