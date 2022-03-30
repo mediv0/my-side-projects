@@ -14,6 +14,7 @@
     - **[Vue-persian-tools](https://github.com/persian-tools/vue-persian-tools)** *Persian tools wrapper for vue.js*
     - **[Zal](https://github.com/mediv0/zal)** *Small & minimal RTL & component first CSS library*
     - **[Uribbble](https://github.com/mediv0/Uribbble)** *Drop comments just with a click on Dribbble*
+    - **[telegram-rate-limiter](https://github.com/mediv0/telegram-rate-limiter)** *dead simple rate limiter for telegram bots with typescript support.*
 
 - ### Blog Posts
     - [Create Custom data reactivity system](https://mediv.vercel.app/blog/data-reactivity-in-javascript)
