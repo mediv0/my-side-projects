@@ -15,10 +15,20 @@
     - **[Zal](https://github.com/mediv0/zal)** *Small & minimal RTL & component first CSS library*
     - **[Uribbble](https://github.com/mediv0/Uribbble)** *Drop comments just with a click on Dribbble*
     - **[telegram-rate-limiter](https://github.com/mediv0/telegram-rate-limiter)** *dead simple rate limiter for telegram bots with typescript support.*
+ 
+ 
+- ### Boilerplates - Research
+    - **[tehst - jest clone](https://github.com/mediv0/jest-clone)** *very simple testing framework inspired by jest*
+    - **[Manticore](https://github.com/mediv0/Manticore)** -- *[Live demo](https://codesandbox.io/s/gallant-platform-5g873?file=/index.html)* -- *simple animation library Gsap.from clone*
+    - **[Vod and live streaming service](https://github.com/mediv0/vod-live-stream-ffmpeg-example)** *Live/Vod streaming service using node js and hls*
+    - **[Nuxt Darkmod example](https://github.com/mediv0/nuxt-color-module-example)** -- *[Live demo](https://mediv0.github.io/nuxt-color-module-example/)* -- *nuxt color module with css variables*
+    - **[Computer science algorithms](https://github.com/mediv0/computer-science-algorithms-list)** *Kruskal, merge sort, radix, prim, lcs, and more...*
+    - **[Binary search visualization](https://github.com/mediv0/binary-search-visualization)** -- *[Live demo](https://mediv0.github.io/binary-search-visualization/)* -- *Binary search visualization*
 
-- ### Blog Posts
-    - [Create Custom data reactivity system](https://mediv.vercel.app/blog/data-reactivity-in-javascript)
-    - [2d raycasting in javascript](https://mediv.vercel.app/blog/raycasting-in-javascript)
+- ### Contribution
+    - **[Persian tools](https://github.com/persian-tools/persian-tools)**
+    - **[Nuxt.org](https://github.com/nuxt/nuxtjs.org)** *translate to fa*
+    - **[Vue my toasts](https://github.com/vuegems/vue-my-toasts)**
 
 - ### Side projects
     - **[Xeniac team website](https://xeniac.ir/)**
@@ -33,18 +43,10 @@
     - **[youtube-to-aparat-middleware](https://github.com/mediv0/youtube-to-aparat-middleware)** *forward youtube streams to Aparat's RTMP server (or any RTMP server)*
     - **[youtube-thumbnail-downloader](https://github.com/mediv0/telegram-thumbnail-bot/tree/master)** *a telegram bot for downloading youtube video thumbnail*
     - **[youtube-video-downloader](https://github.com/mediv0/youtube-downloader-telegram-bot/tree/master)** *a telegram bot for downloading youtube video*
-    - **[Icodeswholesale ICW]([https://github.com/mediv0/youtube-downloader-telegram-bot/tree/master](https://icodeswholesale.com/))** *www.icodeswholesale.com is a marketplace for selling digital gift cards in bulk. Based in Los Angeles, California. 
-  
+    - **[Icodeswholesale ICW]([https://github.com/mediv0/youtube-downloader-telegram-bot/tree/master](https://icodeswholesale.com/))** *www.icodeswholesale.com is a marketplace for selling digital gift cards in bulk. Based in Los Angeles, California.
  
-- ### Boilerplates - Research
-    - **[tehst - jest clone](https://github.com/mediv0/jest-clone)** *very simple testing framework inspired by jest*
-    - **[Manticore](https://github.com/mediv0/Manticore)** -- *[Live demo](https://codesandbox.io/s/gallant-platform-5g873?file=/index.html)* -- *simple animation library Gsap.from clone*
-    - **[Vod and live streaming service](https://github.com/mediv0/vod-live-stream-ffmpeg-example)** *Live/Vod streaming service using node js and hls*
-    - **[Nuxt Darkmod example](https://github.com/mediv0/nuxt-color-module-example)** -- *[Live demo](https://mediv0.github.io/nuxt-color-module-example/)* -- *nuxt color module with css variables*
-    - **[Computer science algorithms](https://github.com/mediv0/computer-science-algorithms-list)** *Kruskal, merge sort, radix, prim, lcs, and more...*
-    - **[Binary search visualization](https://github.com/mediv0/binary-search-visualization)** -- *[Live demo](https://mediv0.github.io/binary-search-visualization/)* -- *Binary search visualization*
+- ### Blog Posts
+    - [Create Custom data reactivity system](https://mediv.vercel.app/blog/data-reactivity-in-javascript)
+    - [2d raycasting in javascript](https://mediv.vercel.app/blog/raycasting-in-javascript)
+  
 
-- ### Contribution
-    - **[Persian tools](https://github.com/persian-tools/persian-tools)**
-    - **[Nuxt.org](https://github.com/nuxt/nuxtjs.org)** *translate to fa*
-    - **[Vue my toasts](https://github.com/vuegems/vue-my-toasts)**
