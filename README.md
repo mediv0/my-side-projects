@@ -32,7 +32,7 @@
 
 - ### Side projects
     - **[Xeniac team website](https://xeniac.ir/)**
-    -  **[Cryptic](https://xeniac.ir/)**  -- *Live crypto price tracking*
+    -  **[Cryptic](https://github.com/mediv0/Cryptic)**  -- *Live crypto price tracking*
     - **[Personal Portfolio](https://mahdi.wtf/)**
     - **[Chill Club](https://github.com/mediv0/chill-club)** -- *[Live demo](https://chill-club.vercel.app/)* -- *listen to music and chill*
     - **[Xtrader](https://mediv0.github.io/xtrader/)** -- *[Live demo](https://mediv0.github.io/xtrader/)(landing ui)* -- *Fastest way100% FREE to trade steam items*
