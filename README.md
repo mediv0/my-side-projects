@@ -32,6 +32,7 @@
 
 - ### Side projects
     - **[Xeniac team website](https://xeniac.ir/)**
+    -  **[Cryptic](https://xeniac.ir/)**  -- *Live crypto price tracking*
     - **[Personal Portfolio](https://mahdi.wtf/)**
     - **[Chill Club](https://github.com/mediv0/chill-club)** -- *[Live demo](https://chill-club.vercel.app/)* -- *listen to music and chill*
     - **[Xtrader](https://mediv0.github.io/xtrader/)** -- *[Live demo](https://mediv0.github.io/xtrader/)(landing ui)* -- *Fastest way100% FREE to trade steam items*
@@ -44,6 +45,10 @@
     - **[youtube-thumbnail-downloader](https://github.com/mediv0/telegram-thumbnail-bot/tree/master)** *a telegram bot for downloading youtube video thumbnail*
     - **[youtube-video-downloader](https://github.com/mediv0/youtube-downloader-telegram-bot/tree/master)** *a telegram bot for downloading youtube video*
     - **[Icodeswholesale ICW]([https://github.com/mediv0/youtube-downloader-telegram-bot/tree/master](https://icodeswholesale.com/))** *www.icodeswholesale.com is a marketplace for selling digital gift cards in bulk. Based in Los Angeles, California.
+ 
+
+
+
  
 - ### Blog Posts
     - [Create Custom data reactivity system](https://mediv.vercel.app/blog/data-reactivity-in-javascript)
